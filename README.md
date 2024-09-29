@@ -1,11 +1,7 @@
 <h2 align="left">Hi 👋 ! My name is Nuno and I'm a Master's Student in Software Engineering, from Portugal </h2>
 
-###
-###
-###
-
 <h3>Some of my skills</h3>
-<div align="left">
+<div align="left" style="margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -29,8 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
 </div>
 
-
-<div align="left">
+<div align="left" style="margin-bottom: 20px;">
   <a href="https://www.instagram.com/nuno_rodrigues72">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
@@ -38,4 +33,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-<br clear="both">

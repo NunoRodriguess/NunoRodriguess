@@ -28,11 +28,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="30" alt="aws logo"  />
 </div>
 
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/nuno_rodrigues72">
@@ -43,8 +41,6 @@
   </a>
 </div>
 
-###
 
 <h3> You can find most of my projects for my Bachelor's Degree in Software Engineering | University of Minho </h3>
 <br clear="both">
-###
